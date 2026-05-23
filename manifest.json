@@ -1,0 +1,411 @@
+{
+  "version": "v1.2",
+  "baseUrl": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios",
+  "voicedBy": [
+    "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር",
+    "ኣቡበከር ኣቡ ዓብዲላህ"
+  ],
+  "hashingAlgorithm": "SHA-256",
+  "files": [
+    {
+      "id": "01",
+      "name": "H01_abuyusuf.mp3",
+      "size": 5178428,
+      "hash": "81384b146a8b5ea04d1dd0caad637d41dc5fb5b0ec749aa6ac3cf97b8510de29",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H01_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "02",
+      "name": "H02_abuyusuf.mp3",
+      "size": 11481357,
+      "hash": "2bbb3c04d0dc530f8c87cd2e52b0db95d5d87f9233939b59ace60f37ad219629",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H02_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "03",
+      "name": "H03_abuyusuf.mp3",
+      "size": 8221589,
+      "hash": "d09a791114789c667103fbd325e9066d0b54bd3dfc0f38d9b2602a7529dcc4ec",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H03_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "04",
+      "name": "H04_abuyusuf.mp3",
+      "size": 5128795,
+      "hash": "11476335b5db639bb60f6f749d9e76aea9ded55ed7ad1f0301a3e8bc14dd3c91",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H04_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "05",
+      "name": "H05_abuyusuf.mp3",
+      "size": 5489105,
+      "hash": "2d1470c70e8ac828e6f9d2927ebfd77cdc6a3e7e2317f780a222866c359f592c",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H05_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "06",
+      "name": "H06_abuyusuf.mp3",
+      "size": 1608148,
+      "hash": "0686a1d98d81a2a0ee02f62cc2f432b9e645b5e6c11b400691d936d6d9da7e21",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H06_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "07",
+      "name": "H07_abuyusuf.mp3",
+      "size": 1806436,
+      "hash": "9ad0c18830fbc8359e61ee848e310749b689dabd71371621e240e94c9ed2c745",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H07_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "08",
+      "name": "H08_abuyusuf.mp3",
+      "size": 1678420,
+      "hash": "d67bb34d7744ad9bdf8792c37470c024062c2ccbab8426e24a0860d802086986",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H08_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "09",
+      "name": "H09_abuyusuf.mp3",
+      "size": 752140,
+      "hash": "d009826d1fc214d9976776403666dee8273391f1e79e560028f3665b0876925b",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H09_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "10",
+      "name": "H10_abuyusuf.mp3",
+      "size": 1179676,
+      "hash": "9462df2b9eddefeea083096df3965c2938e161c73d420eac6b84ebc981e85782",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H10_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "11",
+      "name": "H11_abuyusuf.mp3",
+      "size": 1077652,
+      "hash": "94e8618804e183c75548b0132973eaf8c6a3f06f3d0c71716c30437eb190bfb4",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H11_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "12",
+      "name": "H12_abuyusuf.mp3",
+      "size": 1523260,
+      "hash": "539e14f3538b1759d5102d9d6536919264e7767ba70fcaa132bb8947acfd3b3b",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H12_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "13",
+      "name": "H13_abuyusuf.mp3",
+      "size": 2098108,
+      "hash": "a2b6529ca3456a487065d783c4f4d3ac8a69d74a999a30aa20ebeff415f7a825",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H13_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "14",
+      "name": "H14_abuyusuf.mp3",
+      "size": 2260612,
+      "hash": "4e58649fb1f1ae35c1fbdca79858347221e820f0d639d73accacabb3fdd5f0a0",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H14_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "15",
+      "name": "H15_abuyusuf.mp3",
+      "size": 2219716,
+      "hash": "c77f310151353de35874928a8fb4c6a43a4093996b1133a3b74ba26c25fdc206",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H15_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "16",
+      "name": "H16_abuyusuf.mp3",
+      "size": 1201636,
+      "hash": "e6f57f684331455e791cdfe5732cab3eb223850f8beb126dbdce7c9f89ee8043",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H16_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "17",
+      "name": "H17_abuyusuf.mp3",
+      "size": 1313956,
+      "hash": "9745539bc6605fe6157e0e08343e9d2ce89f81209d892e842ccf58917d8f4f78",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H17_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "18",
+      "name": "H18_abuyusuf.mp3",
+      "size": 1992052,
+      "hash": "d7561254c1194745bb2f164c26da0cd04b2db4c8a6499bb04cbd15556f109e51",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H18_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "19",
+      "name": "H19_abuyusuf.mp3",
+      "size": 2339380,
+      "hash": "9a543ff50e472d816426a6743b389a48532e683b8a340b034e1c6e182468a1aa",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H19_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "20",
+      "name": "H20_abuyusuf.mp3",
+      "size": 1281988,
+      "hash": "b1f09c1218b0259c5b16c22a4243e87dc24a7c984a4a76a3338537ce90772638",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H20_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "21",
+      "name": "H21_abuyusuf.mp3",
+      "size": 1658476,
+      "hash": "128f9208298c349e28238c93640a4f8b0c343880f831de6648ba6a3e58c80ebc",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H21_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "22",
+      "name": "H22_abuyusuf.mp3",
+      "size": 6383636,
+      "hash": "b4531f4a3f9d5cbd01d40ad46d606dcf215ec8a51479570c723068e2193ec6f2",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H22_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "23",
+      "name": "H23_abuyusuf.mp3",
+      "size": 11933165,
+      "hash": "05e37b2175f2fcecb65f7a958125d608b2cfadf67c970e8d40e93273fdc6eb34",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H23_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "24",
+      "name": "H24_abuyusuf.mp3",
+      "size": 2461924,
+      "hash": "10d89c26cca6cb15af75e57ac7481789ba4362a52e648fed09ce547db768c80b",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H24_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "25",
+      "name": "H25_abubeker.mp3",
+      "size": 1844263,
+      "hash": "77b0f05645e11743d056e42a3a658d4456b05e0277f8c55ff3ec7a231d12ae91",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abubeker/H25_abubeker.mp3",
+      "voicedBy": "ኣቡበከር ኣቡ ዓብዲላህ"
+    },
+    {
+      "id": "26",
+      "name": "H26_abuyusuf.mp3",
+      "size": 1850932,
+      "hash": "7b757bf9c5ea0686fcd5ccfd50df1c483060fa13fe8d453ba20439ddc58d47d0",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H26_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "27",
+      "name": "H27_abuyusuf.mp3",
+      "size": 3883299,
+      "hash": "36d926f15d424bff64c776cc58caef19f79df8c060aae2d198e905a7198fc580",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H27_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "28",
+      "name": "H28_abuyusuf.mp3",
+      "size": 9121895,
+      "hash": "8c9f1e318f2acfc39e7a7ebad79849ca0ad4298e1af299384a6c8608dce156c7",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H28_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "29",
+      "name": "H29_abuyusuf.mp3",
+      "size": 7734062,
+      "hash": "eaa065a695856fd0ac91bb71ba68649882ecbbf4837dc51d3745a818733898b7",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H29_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "30",
+      "name": "H30_abuyusuf.mp3",
+      "size": 3134630,
+      "hash": "d0e8ac8eb8fd9c932630f15cfd231559be3984fe09fd8cf875a055158ed47f98",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H30_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "31",
+      "name": "H31_abuyusuf.mp3",
+      "size": 5259221,
+      "hash": "c219d9e3e645a501ae56abbb8e3cc739e49fcdcdce30516db595b17baf054f24",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H31_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "32",
+      "name": "H32_abuyusuf.mp3",
+      "size": 6304955,
+      "hash": "4246530fb8f06453a4b6eccc565f7b147ac04830a705f08b5b0ec0835229a6f2",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H32_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "33",
+      "name": "H33_abuyusuf.mp3",
+      "size": 4598010,
+      "hash": "64b0cf2f0e448bbd5e03e0c30338b250c16487d10ff04ae2ca71202e19a2c32d",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H33_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "34",
+      "name": "H34_abuyusuf.mp3",
+      "size": 6570568,
+      "hash": "ea2f4bd8ddcfd7d4efcead51344d2fac86888c2e19ea0e1ef944acef72eaef8c",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H34_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "35",
+      "name": "H35_abuyusuf.mp3",
+      "size": 1552060,
+      "hash": "3630ee42aed6de43da5c966d08145742dacdbb8a43c5622b53fe85b7a3fe7a47",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H35_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "36",
+      "name": "H36_abuyusuf.mp3",
+      "size": 1979380,
+      "hash": "e775208e381d973d34f1000f292c0c5df9d693dd86141833ba2d76cb15a4f92d",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H36_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "37",
+      "name": "H37_abuyusuf.mp3",
+      "size": 5629637,
+      "hash": "7c4e4210efc8bdc8daa1fa884f3260865ee195fd6224ab13d5f27aca472241e5",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H37_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "38",
+      "name": "H38_abuyusuf.mp3",
+      "size": 1718020,
+      "hash": "a7270adefab329e5be568cb1d89357d19771695facb42a078aaf50ea8d0414b9",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H38_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "39",
+      "name": "H39_abuyusuf.mp3",
+      "size": 7958924,
+      "hash": "30a4cfe09c3b6aa2123518a4312535da120f8230632ff0f97256b9dbb4423c62",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H39_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "40",
+      "name": "H40_abuyusuf.mp3",
+      "size": 1958932,
+      "hash": "94aa962b34e96a02a0a713b654841243c74aa94d6515bffe4b44360ffa5f4ce4",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H40_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "41",
+      "name": "H41_abuyusuf.mp3",
+      "size": 1196380,
+      "hash": "08dc18f86095e22ec8ef3acb2f2522ca319ad9e89e0e5e65f4e8917c6d8969cb",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H41_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "42",
+      "name": "H42_abuyusuf.mp3",
+      "size": 1271188,
+      "hash": "399a73dc369546c4332a4e84250f42cc6a39dd68c55393b614d547f01762529d",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abu_yusuf/H42_abuyusuf.mp3",
+      "voicedBy": "ኣቡ ዩሱፍ ዓብዳሏህ ኢብኑ ዑመር"
+    },
+    {
+      "id": "43",
+      "name": "H43_abubeker.mp3",
+      "size": 916184,
+      "hash": "0606276308c7d1428cbd866f14d78d787ef7fadb8e5d7fd24a1ee272865c31e4",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abubeker/H43_abubeker.mp3",
+      "voicedBy": "ኣቡበከር ኣቡ ዓብዲላህ"
+    },
+    {
+      "id": "44",
+      "name": "H44_abubeker.mp3",
+      "size": 848266,
+      "hash": "998c8ea5e88d9e46dc32c7ce4db7548403d22af6c150255bf9c274099a6be920",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abubeker/H44_abubeker.mp3",
+      "voicedBy": "ኣቡበከር ኣቡ ዓብዲላህ"
+    },
+    {
+      "id": "45",
+      "name": "H45_abubeker.mp3",
+      "size": 3040149,
+      "hash": "7bb9239a997efb47b0d0426902b8fa8c717abb9286cfdd26068917fa8177af55",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abubeker/H45_abubeker.mp3",
+      "voicedBy": "ኣቡበከር ኣቡ ዓብዲላህ"
+    },
+    {
+      "id": "46",
+      "name": "H46_abubeker.mp3",
+      "size": 3232201,
+      "hash": "051b905e197915bf0edacac100c2ec1c1aad869d17cddb62ef41c84c1d5c89af",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abubeker/H46_abubeker.mp3",
+      "voicedBy": "ኣቡበከር ኣቡ ዓብዲላህ"
+    },
+    {
+      "id": "47",
+      "name": "H47_abubeker.mp3",
+      "size": 2620308,
+      "hash": "70f5d6e86838f9ab685131e2397da3e279214772e9f4ef7d44abf1379ed4ae41",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abubeker/H47_abubeker.mp3",
+      "voicedBy": "ኣቡበከር ኣቡ ዓብዲላህ"
+    },
+    {
+      "id": "48",
+      "name": "H48_abubeker.mp3",
+      "size": 3436165,
+      "hash": "11e1af486c7b795c11b8b1dc9a276786be70df490bcf2d161e08b67a8b76470d",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abubeker/H48_abubeker.mp3",
+      "voicedBy": "ኣቡበከር ኣቡ ዓብዲላህ"
+    },
+    {
+      "id": "49",
+      "name": "H49_abubeker.mp3",
+      "size": 1476250,
+      "hash": "e4677b2510aff48f45336ec8b9882bd430fa790942b98ba8f8e06b01500ee132",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abubeker/H49_abubeker.mp3",
+      "voicedBy": "ኣቡበከር ኣቡ ዓብዲላህ"
+    },
+    {
+      "id": "50",
+      "name": "H50_abubeker.mp3",
+      "size": 1048260,
+      "hash": "3cdccbe6e8e0e93c19541f006af33e2c73714c86df0c15643a8d1c7386d38a87",
+      "url": "https://raw.githubusercontent.com/lewh231/arbine_newewiyah_assets/main/audios/abubeker/H50_abubeker.mp3",
+      "voicedBy": "ኣቡበከር ኣቡ ዓብዲላህ"
+    }
+  ]
+}
